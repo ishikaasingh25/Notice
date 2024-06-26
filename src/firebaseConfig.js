@@ -3,13 +3,13 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDhkNnNU2BbVQNHiL0KrLQKMJa0Oiv28Gw",
-  authDomain: "virtualnotice-1a8f1.firebaseapp.com",
-  projectId: "virtualnotice-1a8f1",
-  storageBucket: "virtualnotice-1a8f1.appspot.com",
-  messagingSenderId: "785350459600",
-  appId: "1:785350459600:web:45c1dcefbf813b28de1ed5",
-  measurementId: "G-SWHQGD69F1"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
